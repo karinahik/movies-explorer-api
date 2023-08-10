@@ -28,7 +28,7 @@
 
 ## Ccылка на Pull requests
 
-- 
+- https://github.com/karinahik/movies-explorer-api/pull/1
 
 ## Автор проекта
 
