@@ -14,7 +14,7 @@
 
 ## Установка и запуск проекта:
 
-Клонировать репозиторий: `git clone https://`
+Клонировать репозиторий: `git clone https://github.com/karinahik/movies-explorer-api.git`
 
 Установить зависимости: `npm install`
 
@@ -24,7 +24,7 @@
 
 ## Ccылка на репозиторий 
 
-- 
+- https://karinahik.github.io/movies-explorer-api/
 
 ## Ccылка на Pull requests
 
